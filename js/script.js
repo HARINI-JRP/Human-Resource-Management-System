@@ -1,0 +1,1 @@
+// Placeholder for future enhancements (validation, charts, etc.)
